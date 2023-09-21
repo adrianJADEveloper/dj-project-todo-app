@@ -1,0 +1,1 @@
+`This is a simple TO-DO app using Python/Django stack`
